@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Koden uppfyller inte samtliga G-krav. Det saknas implementation av router för att visa olika sidor, hantering av bilder och matningslogik för djuren, samt användning av en CSS-teknik utöver ren CSS.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller de flertaliga grundläggande krav såsom styling och struktur men saknar bekräftelse på avancerad teknik och avancerad funktionalitet för VG.
 
 💡 **Förbättringsförslag:**  
-1. Implementera en router för att hantera navigering mellan olika sidor i applikationen (t.ex. React Router). 2. Lägg till komponenter och logik för att visa en översiktssida för djur och en detaljsida för individuella djur. 3. Implementera funktionalitet och logik för att hantera matning av djuren enligt de specificerade reglerna. 4. Hantera bildladdning korrekt, inklusive felaktiga bildlänkar. 5. Använd en CSS-teknik som SCSS eller tailwind för styling, istället för enbart ren CSS. 6. Använd en tjänst eller custom hook för att hämta data från API:et. 7. Använd context och reducers för att hantera komponentkommunikation och datastatus enligt kraven för VG-betyg.
+Förbättringar kring användning av context, reducers, och externa styling-ramverk kunde övervägas för att uppnå VG.
