@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller de flertaliga grundläggande krav såsom styling och struktur men saknar bekräftelse på avancerad teknik och avancerad funktionalitet för VG.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** En stor del av de grundläggande kraven verkar inte vara uppfyllda, inklusive användning av router, datainhämtning, bildhantering och korrekt stilningsmetod.
 
 💡 **Förbättringsförslag:**  
-Förbättringar kring användning av context, reducers, och externa styling-ramverk kunde övervägas för att uppnå VG.
+Inkludera korrekt routernavigering, hämta och visa djurdata på ett meningsfullt sätt, hantera felaktiga bilder, och använd en stilteknik utöver enkel CSS.
