@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: IG**
-📌 **Motivering:** En stor del av de grundläggande kraven verkar inte vara uppfyllda, inklusive användning av router, datainhämtning, bildhantering och korrekt stilningsmetod.
+📌 **Motivering:** Många av de grundläggande funktionerna, som routerhantering och djurfoderfunktionalitet saknas i koden. Komplexa CSS tekniker eller användandet av context och reducers är också frånvarande.
 
 💡 **Förbättringsförslag:**  
-Inkludera korrekt routernavigering, hämta och visa djurdata på ett meningsfullt sätt, hantera felaktiga bilder, och använd en stilteknik utöver enkel CSS.
+Implementera en routerlösning med korrekt layout- och route-hantering. Säkra att djurfoderfunktionaliteten följer den specificerade tidslogiken. Använd mer avancerad CSS eller externa stylingsbibliotek. Integrera context API och reducers för att hantera globalt tillstånd.
