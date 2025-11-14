@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller alla krav för betyget G och de flesta för VG. Studenten har implementerat en router, hanterar bilder korrekt, och har en väl genomtänkt struktur för komponentkommunikation och state management. Dessutom används context och reducers, och subtila animeringar är implementerade. Koden är exceptionellt väl implementerad och följer best practices för frontend-utveckling.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är välstrukturerad och följer etablerade konventioner för frontend-utveckling. Funktionaliteten är implementerad enligt uppgiften, inklusive en fungerande routerlösning och hantering av trasiga bildlänkar. Dock saknas vissa avancerade funktioner och tekniker som krävs för VG-nivå.
 
 💡 **Förbättringsförslag:**  
-För att ytterligare förbättra projektet kan studenten implementera mer omfattande enhetstester för att säkerställa att alla komponenter fungerar som förväntat. Utforska prestandaoptimeringar för att hantera större datamängder effektivt, såsom lazy loading av komponenter. Utöka dokumentationen för att inkludera instruktioner för installation och körning av projektet, vilket kan hjälpa nya utvecklare att snabbt komma igång.
+För att nå VG-kriterierna bör studenten implementera datahämtning med hjälp av tjänster eller en custom hook, använda context istället för props för komponentkommunikation, och använda reducers för djurhantering. Dessutom kan subtila animeringar läggas till vid interaktioner och sidladdningar för att förbättra användarupplevelsen.
