@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten är implementerad enligt uppgiften. Dock finns det vissa förbättringsområden som kan adresseras för att uppnå VG, såsom användning av context för komponentkommunikation och reducers för djurhantering.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för betyget G och de flesta för VG. Studenten har implementerat en router, hanterar bilder korrekt, och har en väl genomtänkt struktur för komponentkommunikation och state management. Dessutom används context och reducers, och subtila animeringar är implementerade. Koden är exceptionellt väl implementerad och följer best practices för frontend-utveckling.
 
 💡 **Förbättringsförslag:**  
-För att nå VG-nivå, bör studenten implementera context för komponentkommunikation, använda reducers för djurhantering, och inkludera subtila animeringar. Dessutom kan kodens läsbarhet förbättras genom mer konsekventa kommentarer och bättre namngivning av variabler och funktioner.
+För att ytterligare förbättra projektet kan studenten implementera mer omfattande enhetstester för att säkerställa att alla komponenter fungerar som förväntat. Utforska prestandaoptimeringar för att hantera större datamängder effektivt, såsom lazy loading av komponenter. Utöka dokumentationen för att inkludera instruktioner för installation och körning av projektet, vilket kan hjälpa nya utvecklare att snabbt komma igång.
