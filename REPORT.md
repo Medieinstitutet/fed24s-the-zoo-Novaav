@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-Novaav
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Många av de grundläggande funktionerna, som routerhantering och djurfoderfunktionalitet saknas i koden. Komplexa CSS tekniker eller användandet av context och reducers är också frånvarande.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten är implementerad enligt uppgiften. Dock finns det vissa förbättringsområden som kan adresseras för att uppnå VG, såsom användning av context för komponentkommunikation och reducers för djurhantering.
 
 💡 **Förbättringsförslag:**  
-Implementera en routerlösning med korrekt layout- och route-hantering. Säkra att djurfoderfunktionaliteten följer den specificerade tidslogiken. Använd mer avancerad CSS eller externa stylingsbibliotek. Integrera context API och reducers för att hantera globalt tillstånd.
+För att nå VG-nivå, bör studenten implementera context för komponentkommunikation, använda reducers för djurhantering, och inkludera subtila animeringar. Dessutom kan kodens läsbarhet förbättras genom mer konsekventa kommentarer och bättre namngivning av variabler och funktioner.
