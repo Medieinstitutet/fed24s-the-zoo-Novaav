@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är välstrukturerad och följer etablerade konventioner för frontend-utveckling. Funktionaliteten är implementerad enligt uppgiften, inklusive en fungerande routerlösning och hantering av trasiga bildlänkar. Dock saknas vissa avancerade funktioner och tekniker som krävs för VG-nivå.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är funktionell och implementerar de nödvändiga funktionerna som beskrivs i uppgiften, inklusive användning av en router, hantering av olika sidor, och korrekt hantering av trasiga bildlänkar. Det finns dock förbättringsområden som kan adresseras för att nå betyget VG.
 
 💡 **Förbättringsförslag:**  
-För att nå VG-kriterierna bör studenten implementera datahämtning med hjälp av tjänster eller en custom hook, använda context istället för props för komponentkommunikation, och använda reducers för djurhantering. Dessutom kan subtila animeringar läggas till vid interaktioner och sidladdningar för att förbättra användarupplevelsen.
+För att nå betyget VG, bör studenten implementera datahämtning med tjänster eller en custom hook, använda context för komponentkommunikation istället för props, och hantera djurens tillstånd med reducers istället för state. Dessutom bör subtila animeringar läggas till vid interaktioner och sidladdningar för att förbättra användarupplevelsen.
