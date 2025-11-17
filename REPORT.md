@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är funktionell och implementerar de nödvändiga funktionerna som beskrivs i uppgiften, inklusive användning av en router, hantering av olika sidor, och korrekt hantering av trasiga bildlänkar. Det finns dock förbättringsområden som kan adresseras för att nå betyget VG.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Projektet uppfyller inte de grundläggande kraven för betyget G. Det saknas implementering av flera kritiska funktioner som är nödvändiga enligt uppgiften. Det finns ingen router för att hantera olika sidor, inga djursidor är implementerade, och det finns ingen funktionalitet för att mata djur eller hantera trasiga bildlänkar. Endast grundläggande setup-filer för en React-applikation med Vite finns, men ingen faktisk applikationslogik eller komponenter för att uppfylla uppgiftens krav.
 
 💡 **Förbättringsförslag:**  
-För att nå betyget VG, bör studenten implementera datahämtning med tjänster eller en custom hook, använda context för komponentkommunikation istället för props, och hantera djurens tillstånd med reducers istället för state. Dessutom bör subtila animeringar läggas till vid interaktioner och sidladdningar för att förbättra användarupplevelsen.
+För att uppnå ett godkänt betyg (G), behöver projektet implementera en router för att hantera olika sidor, inklusive en översiktssida för djuren och en detaljerad djursida. Funktionalitet för att mata djur och hantera tidsbaserade regler för matning måste också implementeras. Dessutom bör projektet hantera trasiga bildlänkar och använda en alternativ stylingteknik som SCSS eller Material UI. För ett högre betyg (VG), skulle projektet behöva implementera datahämtning med tjänster eller custom hooks, använda context för komponentkommunikation, och hantera djurens tillstånd med reducers. Användning av subtila animeringar vid interaktioner och sidladdningar skulle också behövas.
